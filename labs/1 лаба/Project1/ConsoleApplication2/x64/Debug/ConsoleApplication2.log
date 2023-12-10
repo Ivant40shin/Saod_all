@@ -1,0 +1,6 @@
+﻿  ConsoleApplication2.cpp
+C:\Users\User\Desktop\Для БГТУ\.2 курс\структуры данных и алгоритмов\1 лаба\Project1\ConsoleApplication2\ConsoleApplication2.cpp(28,10): warning C4267: инициализация: преобразование из "size_t" в "int"; возможна потеря данных
+C:\Users\User\Desktop\Для БГТУ\.2 курс\структуры данных и алгоритмов\1 лаба\Project1\ConsoleApplication2\ConsoleApplication2.cpp(83,14): warning C4267: инициализация: преобразование из "size_t" в "int"; возможна потеря данных
+C:\Users\User\Desktop\Для БГТУ\.2 курс\структуры данных и алгоритмов\1 лаба\Project1\ConsoleApplication2\ConsoleApplication2.cpp(109,12): warning C4267: инициализация: преобразование из "size_t" в "int"; возможна потеря данных
+C:\Users\User\Desktop\Для БГТУ\.2 курс\структуры данных и алгоритмов\1 лаба\Project1\ConsoleApplication2\ConsoleApplication2.cpp(110,18): warning C4267: инициализация: преобразование из "size_t" в "int"; возможна потеря данных
+  ConsoleApplication2.vcxproj -> C:\Users\User\Desktop\Для БГТУ\.2 курс\структуры данных и алгоритмов\1 лаба\Project1\x64\Debug\ConsoleApplication2.exe
